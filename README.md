@@ -68,11 +68,11 @@ This project aims to classify various leukemia subtypes using high-dimensional g
 
 ## Exploratory Data Analysis (EDA)
 
-### Class Distribution wihtout majority classification
+### Class Distribution without majority classification
 
 ![Class Distribution](readme_images/all_subtypes.png)
 
-### Class Distribution wihtout majority classification
+### Class Distribution with majority classification
 
 ![Class Distribution](readme_images/major_subtypes.png)
 
